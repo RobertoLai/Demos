@@ -1,0 +1,57 @@
+svg {
+  width: 30%;
+  height: auto;
+}
+.background-circle {
+  fill: #068C70;
+  stroke: #FFFFFF;
+  stroke-width: 15px;
+}
+.chimney {
+  fill: #FBF6A7;
+}
+.chimney-topper {
+  fill: #E04E27;
+}
+.body {
+  fill: #FBF6A7;
+}
+.roof {
+  fill: #E04E27;
+}
+.door {
+  fill: #E04E27;
+}
+.door-knob {
+  fill:#FBF6A7;
+}
+.flower line {
+  fill: #068C70;
+  stroke: #068C70;
+  stroke-width: 1px;
+}
+.flower-outer {
+  fill: #EC7E23;
+}
+.flower-inner {
+  fill: #FBCE1D;
+}
+text {
+  font-family: Filmotype Major;
+  font-size: 70px;
+  fill: #3E9FD8;
+  stroke: #FFFFFF;
+  stroke-width: 2px;
+}
+.windows rect {
+  fill: #3E9FD8;
+}
+.windows line {
+  stroke: #E04E27;
+  stroke-width: 4px;
+}
+path {
+  fill:none;
+  stroke:#ffffff;
+  stroke-width:2px;
+}
