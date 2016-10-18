@@ -1,0 +1,28 @@
+body {
+  padding-top: 50px;
+}
+#demoArea{
+	margin-top:40px;
+	border: 2px solid #333;
+	position:relative;
+  padding:10px;
+}
+
+.widget{
+  position:relative;
+  width:800px;
+  height:400px;
+  background:green;
+  color: white;
+  margin:0 auto;
+}
+.dragger{
+  position:relative;
+  padding:5%;
+  width:100px;
+  height:100px;
+  background:#ff9900;
+  color: white;
+  font-weight:bold;
+  text-align: center;
+}
