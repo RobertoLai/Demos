@@ -1,0 +1,31 @@
+body {
+  padding-top: 50px;
+}
+#demoArea{
+  width:900px;
+  height: 340px;
+	margin-top:40px;
+	border: 2px solid #333;
+	position:relative;
+
+}
+
+.bar {
+  display: inline-block;
+  width: 30px;
+  height: 75px;
+  margin-right: 5px;
+  background-color:orange;
+}
+.bar-svg {
+  display: inline-block;
+  margin-right: 15px;
+  margin-left: 15px;
+  fill: orange;
+}
+
+.legend{
+  margin-top:10px;
+  padding: 10px 0 10px 0;
+  font-weight:bold;
+}
