@@ -1,6 +1,6 @@
 # D3.js demos...
 
-## Simple snippets to explore the library D3.js
+## Simple snippets for exploring the D3.js library
 
 Tested only on Chrome and Firefox
 
